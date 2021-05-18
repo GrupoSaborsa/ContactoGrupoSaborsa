@@ -12,6 +12,16 @@
     box-sizing: border-box;
 }
 
+@font-face{
+    font-family: 'satisfy';
+    src: url(../css/font/satisfy.ttf);
+  }
+
+  @font-face{
+    font-family: 'oswald';
+    src: url(../css/font/Oswald-VariableFont_wght.ttf);
+  }
+
 body {
     background: #FC5C7D;
     /* fallback for old browsers */
@@ -41,12 +51,17 @@ a{
      background-color: rgb(241, 42, 231);
  }
 
+
+
 h1{
     text-align: center;
     margin: 10px 0;
     font-weight: 800;
     padding-top: 150px;
+    color: #FF66C2;
+    font-family: 'satisfy', cursive;
 }
+
 
 form{
     background: #fff;
