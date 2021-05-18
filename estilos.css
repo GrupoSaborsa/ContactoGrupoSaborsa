@@ -14,12 +14,12 @@
 
 @font-face{
     font-family: 'satisfy';
-    src: url(../css/font/satisfy.ttf);
+    src: url(../bolsa/font/satisfy.ttf)
   }
 
   @font-face{
     font-family: 'oswald';
-    src: url(../css/font/Oswald-VariableFont_wght.ttf);
+    src: url(../bolsa/font/Oswald-VariableFont_wght.ttf)
   }
 
 body {
