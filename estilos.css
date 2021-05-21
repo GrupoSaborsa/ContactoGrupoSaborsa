@@ -65,6 +65,11 @@ h1{
     font-family: 'satisfy', cursive;
 }
 
+#capcha{
+    text-align: center;
+    align-items: center;
+}
+
 
 form{
     background: #fff;
